@@ -1,8 +1,10 @@
-##Executando, via terminal, uma classe com um array [] de argumentos, do tipo String.
+## Executando, via terminal, uma classe com um array [ ] de argumentos do tipo String.
 <br>
-* <b>Parametros informados como exemplo: Laiza Schumaker 40 1.59</b>
-* <b>Resultado esperado:</b>
+<b>EXEMPLO</b>
 
-Ola, me chamo Laiza Schumaker<br>
-Tenho 40 anos <br>
-Minha altura é 1.59cm 
+<b>Parametros informados:</b> Joãozinho 10 1.20 <br>
+
+<b>Resultado esperado:</b>
+Ola, me chamo Joãozinho<br>
+Tenho 10 anos <br>
+Minha altura é 1.20cm 
