@@ -1,0 +1,1 @@
+Ilustrando a classe Calculadora com um exemplo de documentação (Java Doc), tipos e uso correto de comentários ebm como boas práticas de códigos e destaque das tags mais utilizadas.
